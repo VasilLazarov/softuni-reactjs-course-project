@@ -1,0 +1,21 @@
+body{
+    background-image: url('../images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+header,
+footer{
+    width: 100%;
+}
+
+header{
+    position: static;
+}
+
+footer{
+    margin-top: auto;
+}
